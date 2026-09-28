@@ -1,0 +1,20 @@
+{
+  "name": "genpark-refcount-cycle-detection-bacon-rajan-skill",
+  "version": "1.0.0",
+  "description": "Reference counting engine with Bacon-Rajan trial deletion cycle collection",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "reference-counting",
+    "cycle-detection",
+    "bacon-rajan",
+    "garbage-collection",
+    "cyclic-garbage",
+    "python-standard-library",
+    "agent-skills",
+    "runtime-systems",
+    "memory-management",
+    "heap-safety"
+  ]
+}
