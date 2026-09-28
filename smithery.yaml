@@ -1,0 +1,6 @@
+name: genpark-refcount-cycle-detection-bacon-rajan-skill
+version: 1.0.0
+description: Reference counting engine with Bacon-Rajan trial deletion cycle collection
+command: python
+args:
+  - mcp_server.py
